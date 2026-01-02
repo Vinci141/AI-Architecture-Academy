@@ -1,0 +1,8 @@
+{
+  "name": "AI Architect Learning Path",
+  "description": "An interactive, step-by-step educational platform for mastering AI architectures, from rule-based systems to multi-agent autonomous workflows.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
